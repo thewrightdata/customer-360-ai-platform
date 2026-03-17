@@ -1,0 +1,4 @@
+event_id,customer_id,event_type,timestamp
+1,1,login,2024-03-01
+2,1,feature_use,2024-03-02
+3,2,churn_signal,2024-03-05

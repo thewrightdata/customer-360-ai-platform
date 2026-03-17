@@ -22,7 +22,7 @@ This project addresses that gap by building a simplified but realistic **Custome
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](https://github.com/thewrightdata/customer-360-ai-platform/blob/main/architecture.png)
 
 ### Data Flow
 

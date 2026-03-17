@@ -127,3 +127,24 @@ This system demonstrates how organizations can:
 
 1. Clone the repository  
 2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3. Run ingestion:
+```
+python python/ingest.py
+```
+4. Run transformations:
+```
+python python/transform.py
+```
+5. (Optional) Run AI insights:
+```
+python python/ai_insights.py
+```
+
+---
+
+## Summary
+
+This project showcases the design and implementation of a modern data platform that bridges raw data, analytics, and AI-driven insights. It is structured to reflect how enterprises can build scalable systems to support customer intelligence and business growth.
